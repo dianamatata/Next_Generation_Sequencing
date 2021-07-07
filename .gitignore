@@ -1,0 +1,6 @@
+
+*.pdf
+*.png
+.DS_Store
+NGS/.DS_Store
+NGS/ecoli/.DS_Store
